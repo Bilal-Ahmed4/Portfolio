@@ -1,0 +1,19 @@
+# Bilal Ahmed — Portfolio
+
+Personal portfolio website built with HTML, CSS & JavaScript.
+
+🌐 Live: [bilalahmad.me](https://bilalahmad.me)
+
+## Built With
+- HTML5 & CSS3
+- Vanilla JavaScript
+- Deployed on Vercel
+
+## Sections
+- Hero & About
+- Projects
+- Skills
+- Contact
+
+## Run Locally
+Just open `index.html` in your browser — no build step needed.
