@@ -2,7 +2,7 @@
 
 Personal portfolio website built with HTML, CSS & JavaScript.
 
-🌐 Live: [bilalahmad.me](https://bilalahmad.tech)
+🌐 Live: [bilalahmad.tech](https://bilalahmad.tech)
 
 ## Built With
 - HTML5 & CSS3
