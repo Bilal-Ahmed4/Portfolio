@@ -19,7 +19,7 @@ const SITE_CONFIG = {
   stats: [
     { value: '3', label: 'projects shipped' },
     { value: '3.06', label: 'CGPA at NUST' },
-    { value: '20+', label: 'technologies' },
+    { value: '10+', label: 'technologies' },
     { value: "'28", label: 'graduation year' },
   ],
 
