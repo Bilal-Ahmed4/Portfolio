@@ -35,15 +35,15 @@ const SITE_CONFIG = {
       githubUrl: 'https://github.com/Bilal-Ahmed4/finmate-ai',
     },
     {
-      label: 'project',
-      tag: 'Full-Stack',
-      title: 'Nova AI Chatbot',
-      description:
-        'Full-stack AI chatbot using Google Gemini 2.5 Flash with a React + Vite frontend, real-time streaming responses, Markdown rendering, image attachments, and conversation persistence via Node.js and Express backend.',
-      stack: ['React', 'Vite', 'Node.js', 'Express', 'Gemini API', 'LangChain'],
-      liveUrl: 'https://nova-ai-chat-ten.vercel.app',
-      githubUrl: 'https://github.com/Bilal-Ahmed4/nova-ai-chat',
-    },
+  label: 'project',
+  tag: 'Full-Stack',
+  title: 'Nova AI Chat',
+  description:
+    'Full-stack AI chat application powered by Google Gemini 2.5 Flash, featuring a minimalist Vanilla JS frontend, secure user authentication (JWT + bcryptjs), custom Markdown rendering, image attachments, and chat history persistence stored in MongoDB.',
+  stack: ['HTML5/CSS3', 'JavaScript', 'Node.js', 'Express', 'MongoDB', 'Gemini API'],
+  liveUrl: 'https://nova-ai-chat-i3ja.onrender.com', // Replace with your active Render live URL if different
+  githubUrl: 'https://github.com/Bilal-Ahmed4/nova-ai-chat'
+},
     {
       label: 'project',
       tag: 'Algorithms',
